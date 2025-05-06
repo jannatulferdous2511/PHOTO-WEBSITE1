@@ -1,0 +1,72 @@
+.container {
+	display: flex;
+	height: 100%;
+	width: 100%;
+	justify-items: center;
+	align-items: center;
+	text-align: center;
+
+	overflow: hidden;
+}
+.familyTitle {
+	font-size: 50px;
+
+	background: linear-gradient(to bottom, #ed7ed5, #e0d9df);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+	background-clip: text;
+	color: transparent;
+
+	margin-top: 0;
+	margin-bottom: 0;
+
+	text-align: center;
+}
+
+.familyContainer {
+	width: 100%;
+	margin-top: 60px;
+}
+.carousel {
+	width: 100%;
+
+	gap: 15px;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+.family {
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+
+@media (max-width: 768px) {
+	.container {
+		flex-direction: column;
+		padding: 20px;
+	}
+
+	.familyTitle {
+		font-size: 36px;
+	}
+
+	.familyContainer {
+		margin-top: 30px;
+	}
+
+	.carousel {
+		flex-direction: column;
+		gap: 10px;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		width: 100%;
+	}
+
+	.family {
+		width: 100%;
+	}
+}

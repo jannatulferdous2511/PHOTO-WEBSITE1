@@ -1,0 +1,31 @@
+.link {
+	width: max-content;
+	font-weight: 15px;
+
+	background-color: rgb(205, 184, 203);
+	color: black;
+	padding: 20px;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+}
+.link:hover {
+	background-color: rgb(237, 187, 237);
+	transition: all;
+	transition-duration: 200;
+}
+@media screen and (max-width: 1024px) {
+	.link {
+		width: max-content;
+		align-items: center;
+		margin-left: 50px;
+		padding: 15px;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	.link {
+		width: max-content;
+		padding: 15px;
+	}
+}

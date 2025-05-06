@@ -1,0 +1,88 @@
+.links {
+	display: flex;
+	align-items: center;
+	gap: 5px;
+	color: rgb(205, 164, 191);
+}
+
+.logout {
+	font-size: 16px;
+	font-weight: bold;
+	background-color: rgb(205, 184, 203);
+	color: black;
+	padding: 5px;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.mobileLinks {
+	position: absolute;
+	top: 100px;
+	right: 0;
+	width: 50%;
+	height: calc(100vh - 100px);
+
+	background-color: #75476fee;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+	cursor: pointer;
+	/* z-index: 20; */
+}
+.menuButton {
+	cursor: pointer;
+}
+
+.mobileLinks,
+.menuButton {
+	display: none;
+}
+@media (max-width: 1024px) {
+	.logout {
+		font-size: 11px;
+	}
+}
+
+@media (max-width: 768px) {
+	.links {
+		display: none;
+	}
+
+	.menuButton {
+		display: flex;
+		cursor: pointer;
+
+		padding-left: 140px;
+	}
+
+	.mobileLinks {
+		position: absolute;
+		top: 100px;
+		right: 0;
+
+		width: 50%;
+		height: calc(100vh - 100px);
+
+		background-color: black;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		gap: 10px;
+		cursor: pointer;
+		z-index: 10;
+	}
+}
+@media screen and (max-width: 640px) {
+	.menuButton {
+		display: block;
+	}
+}
+@media screen and (max-width: 640px) {
+	.menuButton {
+		display: block;
+	}
+}

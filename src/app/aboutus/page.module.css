@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+	.container {
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+		align-items: center;
+	}
+	.img {
+		object-fit: contain;
+		height: 350px;
+		width: 350px;
+	}
+}
