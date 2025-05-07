@@ -36,12 +36,12 @@ const responsive = {
 
 const carouselItems = [
 	{ image: '/sony1.JPG', alt: 'sony1' },
-	{ image: '/sonymahim.jpg', alt: 'sonymahim' },
-	{ image: '/mayabisony.png', alt: 'mayabisony' },
-	{ image: '/sony5.jpg', alt: 'sony5' },
+	{ image: '/sonymahim.JPG', alt: 'sonymahim' },
+	{ image: '/mayabisony.PNG', alt: 'mayabisony' },
+	{ image: '/sony5.JPG', alt: 'sony5' },
 	{ image: '/sonyglass.JPG', alt: 'sonyglass' },
 	{ image: '/babasony.jpg', alt: 'babasony' },
-	{ image: '/amisony5.JPG', alt: 'amisony5' },
+	{ image: '/amisony5.jpg', alt: 'amisony5' },
 ];
 
 const home = () => {
