@@ -183,7 +183,7 @@ export const items = [
 	},
 	{
 		id: 26,
-		img: '/bhibon4.jpg',
+		img: '/bhibon4.JPG',
 		desc: 'Your fresh perspectives and ideas have the power to shape     	solutions, <b>influence families</b> and drive meaningful change.',
 		date: '25.12.2024',
 		link: 'See More',
