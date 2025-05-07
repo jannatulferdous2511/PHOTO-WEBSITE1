@@ -60,17 +60,17 @@
 }
 
 .portfolioItems:nth-child(1) {
-	background: url('/mayabi1.jpg');
+	background: url('/mayabi1.JPG');
 
 	margin-top: 50px;
 }
 
 .portfolioItems:nth-child(2) {
-	background: url('/amra3.jpg');
+	background: url('/amra3.JPG');
 }
 
 .portfolioItems:nth-child(3) {
-	background: url('/mahim1.jpg');
+	background: url('/mahim1.JPG');
 
 	margin-top: 50px;
 }
@@ -104,11 +104,11 @@
 }
 
 .bottomPortfolioItems:nth-child(2) {
-	background: url('/mayabiami2.png');
+	background: url('/mayabiami2.PNG');
 }
 
 .bottomPortfolioItems:nth-child(3) {
-	background: url('/mahimabbu6.jpg');
+	background: url('/mahimabbu6.JPG');
 
 	margin-top: 50px;
 }
@@ -136,10 +136,10 @@
 	margin-top: 50px;
 }
 .endPortfolioItems:nth-child(2) {
-	background: url('/mahimami3.jpg');
+	background: url('/mahimami3.JPG');
 }
 .endPortfolioItems:nth-child(3) {
-	background: url('/amimayabimahim3.jpg');
+	background: url('/amimayabimahim3.JPG');
 	margin-top: 50px;
 }
 @media screen and (max-width: 1280px) {
