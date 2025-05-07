@@ -70,7 +70,7 @@ export const items = [
 
 	{
 		id: 12,
-		img: '/mayabi24.JPG',
+		img: '/mayabi24.jpg',
 		desc: 'my beautiful picture',
 		date: '25.12.2024',
 	},
@@ -112,7 +112,7 @@ export const items = [
 	},
 	{
 		id: 19,
-		img: '/mayabisnake.JPG',
+		img: '/mayabisnake.jpg',
 		desc: 'my beautiful picture',
 		date: '25.12.2024',
 	},
@@ -196,7 +196,7 @@ export const items = [
 	},
 	{
 		id: 33,
-		img: '/mayabi3.jpg',
+		img: '/mayabi3.JPG',
 		desc: 'my beautiful picture',
 		date: '25.12.2024',
 	},
