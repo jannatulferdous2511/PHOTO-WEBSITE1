@@ -50,7 +50,7 @@ export const items: Record<Category, Item[]> = {
 			title: 'Creative Portfolio',
 			text: 'see more',
 			desc: 'Dream Big, Work Hard, Stay Focused And Surround Yourself With Good People.',
-			image: '/mahimcar.jpg',
+			image: '/mahimcar.JPG',
 			url: '/mahim',
 		},
 		{
