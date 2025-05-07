@@ -35,7 +35,7 @@ const responsive = {
 };
 
 const carouselItems = [
-	{ image: '/sony1.jpg', alt: 'sony1' },
+	{ image: '/sony1.JPG', alt: 'sony1' },
 	{ image: '/sonymahim.jpg', alt: 'sonymahim' },
 	{ image: '/mayabisony.png', alt: 'mayabisony' },
 	{ image: '/sony5.jpg', alt: 'sony5' },
