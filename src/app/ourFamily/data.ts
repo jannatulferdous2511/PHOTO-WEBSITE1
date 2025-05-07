@@ -176,7 +176,7 @@ export const items = [
 	},
 	{
 		id: 25,
-		img: '/bhaibon5.JPG',
+		img: '/bhaibon5.jpg',
 		desc: 'Your fresh perspectives and ideas have the power to shape     	solutions, <b>influence families</b> and drive meaningful change.',
 		date: '25.12.2024',
 		link: 'See More',
@@ -204,7 +204,7 @@ export const items = [
 	},
 	{
 		id: 29,
-		img: '/sonyamra.jpg',
+		img: '/sonyamra.JPG',
 		desc: 'Your fresh perspectives and ideas have the power to shape     	solutions, <b>influence families</b> and drive meaningful change.',
 		date: '25.12.2024',
 		link: 'See More',
@@ -232,7 +232,7 @@ export const items = [
 	},
 	{
 		id: 33,
-		img: '/bhibon21.JPG',
+		img: '/bhibon21.jpg',
 		desc: 'Your fresh perspectives and ideas have the power to shape     	solutions, <b>influence families</b> and drive meaningful change.',
 		date: '25.12.2024',
 		link: 'See More',
@@ -365,7 +365,7 @@ export const items = [
 	},
 	{
 		id: 52,
-		img: '/amimayabi12.JPG',
+		img: '/amimayabi12.jpg',
 		desc: 'Your fresh perspectives and ideas have the power to shape     	solutions, <b>influence families</b and drive meaningful change.',
 		date: '25.12.2024',
 		link: 'See More',
@@ -590,7 +590,7 @@ export const items = [
 	},
 	{
 		id: 86,
-		img: '/amra1.jpg',
+		img: '/amra1.JPG',
 		desc: 'Your fresh perspectives and ideas have the power to shape     	solutions, <b>influence families</b> and drive meaningful change.',
 		date: '25.12.2024',
 		link: 'See More',
