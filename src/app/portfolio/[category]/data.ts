@@ -100,7 +100,7 @@ export const items: Record<Category, Item[]> = {
 			title: 'Creative Portfolio',
 			text: 'see more',
 			desc: "Relationships don't last because of the good times. They last because the hard times were handled with love and care.",
-			image: '/amra6.jpg',
+			image: '/amra6.JPG',
 			url: '/ourFamily',
 		},
 		{
