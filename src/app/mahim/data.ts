@@ -138,7 +138,7 @@ export const items = [
 		id: 20,
 		title: 'Blue',
 		desc: 'get together for birthday party',
-		image: '/mahimwhitesuite.JPG',
+		image: '/mahimwhitesuite.jpg',
 		date: '5.6.2022',
 	},
 	{
@@ -194,7 +194,7 @@ export const items = [
 		id: 28,
 		title: 'Blue',
 		desc: 'get together for birthday party',
-		image: '/mahimwall.png',
+		image: '/mahimwall.PNG',
 		date: '5.6.2022',
 	},
 	{
