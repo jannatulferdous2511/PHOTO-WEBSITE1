@@ -92,7 +92,7 @@ export const items: Record<Category, Item[]> = {
 			title: 'Creative Portfolio',
 			text: 'see more',
 			desc: "Perfect relationship is not that you never get angry, upset or irritated with each other. It's how fast you resolve and bounce back to normal.",
-			image: '/amra5.jpg',
+			image: '/amra5.JPG',
 			url: '/ourFamily',
 		},
 		{
