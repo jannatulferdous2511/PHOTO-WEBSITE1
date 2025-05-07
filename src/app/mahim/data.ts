@@ -33,7 +33,7 @@ export const items = [
 		id: 5,
 		title: 'Blue',
 		desc: 'get together for birthday party',
-		image: '/mahimyello.jpg',
+		image: '/mahimyello.JPG',
 		date: '5.6.2022',
 	},
 	{
