@@ -55,14 +55,14 @@ const MayabiPhoto = () => {
 			<Link href="/mayabi" className={styles.imageLink}>
 				<div className={styles.img}>
 					<Image
-						src="/mayabiabbublu.JPG"
+						src="/mayabiabbublu.jpg"
 						alt=""
 						fill
 						sizes="25vw"
 						className={styles.imgStyle}
 					/>
 					<Image
-						src="/mayabiabbu12.JPG"
+						src="/mayabiabbu12.jpg"
 						alt=""
 						fill
 						sizes="25vw"
