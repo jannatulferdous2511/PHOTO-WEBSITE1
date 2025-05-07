@@ -58,7 +58,7 @@ export const items: Record<Category, Item[]> = {
 			title: 'Creative Portfolio',
 			text: 'see more',
 			desc: 'Success Is Neither Magical Nor Mysterious, It Is The Natural Result Of Good Habits And Hard Work.',
-			image: '/mahim3.JPG',
+			image: '/mahimcar3.JPG',
 			url: '/mahim',
 		},
 		{
