@@ -17,5 +17,10 @@ export const familyData = [
 		reviews: '6',
 		date: '25.5.2024',
 	},
-	{ title: 'Mummum', image: '/vanilafm.jpg', reviews: '6', date: '25.5.2024' },
+	{
+		title: 'VanilaFamily',
+		image: '/vanilafm.jpg',
+		reviews: '6',
+		date: '25.5.2024',
+	},
 ];
