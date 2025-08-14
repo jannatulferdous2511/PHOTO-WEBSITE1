@@ -4,6 +4,7 @@ import { Inter } from 'next/font/google';
 import './globals.css';
 
 import Footer from '@/components/footer/Footer';
+import ScrollToTop from '@/components/Helper/ScrollToTop';
 import Navbar from '@/components/navbar/Navbar';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -25,6 +26,7 @@ export default function RootLayout({
 					<Navbar />
 					{children}
 					<Footer />
+					<ScrollToTop />
 				</div>
 			</body>
 		</html>

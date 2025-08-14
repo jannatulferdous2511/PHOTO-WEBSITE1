@@ -274,4 +274,11 @@ export const items = [
 		image: '/mahimjapan.jpg',
 		date: '5.6.2022',
 	},
+	{
+		id: 40,
+		title: 'Blue',
+		desc: 'get together for birthday party',
+		image: '/mahimball.jpg',
+		date: '5.6.2022',
+	},
 ];

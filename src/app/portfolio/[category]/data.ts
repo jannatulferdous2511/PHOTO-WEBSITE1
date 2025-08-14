@@ -43,6 +43,14 @@ export const items: Record<Category, Item[]> = {
 			image: '/mayabigaoun.png',
 			url: '/mayabi',
 		},
+		{
+			id: 5,
+			title: 'Creative Portfolio',
+			text: 'see more',
+			desc: 'Dreams Are Free, But Goals Have A Cost. Which Are Time, Effort, Sacrifice, Sweat, Discipline, Criticism, Rejections, Doubts, Failure, Risks.',
+			image: '/grad7.jpg',
+			url: '/mayabi',
+		},
 	],
 	Mahim: [
 		{

@@ -206,4 +206,16 @@ export const items = [
 		desc: 'my beautiful picture',
 		date: '25.12.2024',
 	},
+	{
+		id: 35,
+		img: '/grad4.jpg',
+		desc: 'my beautiful picture',
+		date: '25.12.2024',
+	},
+	{
+		id: 36,
+		img: '/grad5.jpg',
+		desc: 'my beautiful picture',
+		date: '25.12.2024',
+	},
 ];

@@ -1,0 +1,24 @@
+.scroll {
+	position: fixed;
+	bottom: 16px;
+	right: 16px;
+	animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+@keyframes pulse {
+	50% {
+		opacity: 0.6;
+	}
+}
+
+.scrollButton {
+	background-color: rgb(234, 193, 229);
+	color: black;
+	border-radius: 50%;
+	cursor: pointer;
+	width: 45px;
+	height: 45px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	outline: none;
+}
